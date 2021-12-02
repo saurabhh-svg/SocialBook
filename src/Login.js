@@ -33,7 +33,7 @@ function Login() {
       <div className="login__logo">
         <img src={iiitulogo} alt="IIIT Una logo" />
 
-        <p>Una Diary</p>
+        <p>Social Book</p>
       </div>
 
       <Button type="submit" onClick={signIn}>
