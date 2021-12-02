@@ -1,0 +1,62 @@
+.login {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+.login > div > img {
+  object-fit: contain;
+  height: 150px;
+}
+
+/* .background {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+} */
+
+.login > div > p {
+  padding: 20px;
+  text-align: center;
+  font-weight: 800;
+  font-size: x-large;
+}
+
+.login > button {
+  width: 300px;
+  background-color: #2e81f4;
+  border-radius: 30px;
+  color: #eff2f5;
+  font-weight: 800;
+}
+.login > button:hover {
+  background-color: white;
+  color: #2e81f4;
+}
+
+.login > div {
+  display: flex;
+  flex-direction: column;
+}
+
+.login {
+  background-color: #ffffff;
+  height: 100vh;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100vw;
+}
+
+.login__container {
+  width: 612px;
+  height: 372px;
+  margin-top: 130px;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border: 1px solid blue;
+  background-color: rgb(204, 204, 204);
+}
