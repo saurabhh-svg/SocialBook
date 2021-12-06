@@ -29,18 +29,19 @@ function Login() {
     //     src={"https://wallpaperaccess.com/full/1567666.png"}
     //     alt="background image"
     //   />
-    <div className="login">
-      <div className="login__logo">
-        <img src={iiitulogo} alt="IIIT Una logo" />
+    <div className="out">
+      <div className="login">
+        <div className="login__logo">
+          <img src={iiitulogo} alt="IIIT Una logo" />
 
-        <p>Social Book</p>
+          <p>Social Book</p>
+        </div>
+
+        <Button type="submit" onClick={signIn}>
+          Sign In
+        </Button>
       </div>
-
-      <Button type="submit" onClick={signIn}>
-        Sign In
-      </Button>
     </div>
-    // </div>
   );
 }
 

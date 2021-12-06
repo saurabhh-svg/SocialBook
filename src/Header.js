@@ -1,6 +1,6 @@
 import React from "react";
 import "./Header.css";
-import iiitulogo from "./iiitulogo.png";
+import iiitulogoo from "./ iiitulogoo.png";
 import SearchIcon from "@material-ui/icons/Search";
 import HomeIcon from "@material-ui/icons/Home";
 import SchoolIcon from "@material-ui/icons/School";
@@ -20,7 +20,7 @@ export default function Header() {
   return (
     <div className="header">
       <div className="header__left">
-        <img src={iiitulogo} alt="IIIT Una logo" className="header__logo" />
+        <img src={iiitulogoo} alt="IIIT Una logo" className="header__logo" />
         <div className="header__input">
           <SearchIcon />
           <input type="text" placeholder="Search Something" />

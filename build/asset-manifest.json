@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.71f433b1.chunk.css",
-    "main.js": "/static/js/main.5429d4a4.chunk.js",
-    "main.js.map": "/static/js/main.5429d4a4.chunk.js.map",
+    "main.css": "/static/css/main.7edefb9e.chunk.css",
+    "main.js": "/static/js/main.d7606bab.chunk.js",
+    "main.js.map": "/static/js/main.d7606bab.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.388b4fe5.js",
     "runtime-main.js.map": "/static/js/runtime-main.388b4fe5.js.map",
     "static/js/2.71525288.chunk.js": "/static/js/2.71525288.chunk.js",
@@ -10,14 +10,15 @@
     "static/js/3.007fc823.chunk.js": "/static/js/3.007fc823.chunk.js",
     "static/js/3.007fc823.chunk.js.map": "/static/js/3.007fc823.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.71f433b1.chunk.css.map": "/static/css/main.71f433b1.chunk.css.map",
+    "static/css/main.7edefb9e.chunk.css.map": "/static/css/main.7edefb9e.chunk.css.map",
     "static/js/2.71525288.chunk.js.LICENSE.txt": "/static/js/2.71525288.chunk.js.LICENSE.txt",
-    "static/media/iiitulogo.a9c16dcd.png": "/static/media/iiitulogo.a9c16dcd.png"
+    "static/media/ iiitulogoo.d3b49eea.png": "/static/media/ iiitulogoo.d3b49eea.png",
+    "static/media/iiitulogo.f727730a.png": "/static/media/iiitulogo.f727730a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.388b4fe5.js",
     "static/js/2.71525288.chunk.js",
-    "static/css/main.71f433b1.chunk.css",
-    "static/js/main.5429d4a4.chunk.js"
+    "static/css/main.7edefb9e.chunk.css",
+    "static/js/main.d7606bab.chunk.js"
   ]
 }

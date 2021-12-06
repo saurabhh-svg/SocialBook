@@ -6,7 +6,7 @@
 
 .login > div > img {
   object-fit: contain;
-  height: 150px;
+  height: 450px;
 }
 
 /* .background {
@@ -40,7 +40,8 @@
 }
 
 .login {
-  background-color: #ffffff;
+  /* background-color: transparent; */
+  background-color: rgb(255, 255, 255);
   height: 100vh;
   align-items: center;
   display: flex;
@@ -59,4 +60,24 @@
   padding: 20px;
   border: 1px solid blue;
   background-color: rgb(204, 204, 204);
+}
+
+/* .out {
+  width: 100vw;
+  height: 100vh;
+  background-color: red;
+  background-image: url("./back.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+} */
+
+/* .background {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+} */
+
+.login__logo {
+  width: 100%;
 }
